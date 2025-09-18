@@ -1,4 +1,4 @@
-test 0918
+test 0918 offline
 123
 456
 789
